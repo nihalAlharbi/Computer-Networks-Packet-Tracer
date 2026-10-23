@@ -60,4 +60,4 @@ The repository includes the original assignment file. Its topology and connectiv
 ## Author
 
 **Nihal Hameed Alharbi**  
-[GitHub profile](https://github.com/niha-hameed)
+[GitHub profile](https://github.com/nihalAlharbi)
